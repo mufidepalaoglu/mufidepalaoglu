@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mufidepalaoglu
 - 👀 I’m interested in data analysis and data visulation.
-- 🌱 I’m currently learning SQL,Python and AWS.
+- 🌱 I’m currently learning SQL, Python and AWS.
 - 📫 You can reach me mufidepalaoglu@gmail.com
 
 <!---
