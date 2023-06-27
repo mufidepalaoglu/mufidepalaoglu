@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mufide Palaoglu!
 - 👀 I’m interested in data analysis and data visualization.
-- 🌱 I’m currently learning data engineering and cloud technologies such as SQL, Python and AWS.
+- 🌱 I’m currently learning data and cloud technologies such as SQL, Python and AWS.
 - 📫 You can reach me mufidepalaoglu@gmail.com
 
 <!---
