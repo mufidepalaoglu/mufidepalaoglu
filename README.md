@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Mufide Palaoglu!
-- 👀 I’m interested in data engineering.
-- 🌱 I’m currently learning data and cloud technologies such as SQL, Python, Airflow, GCP and AWS.
+- 👋 Hi, I’m Mufide Palaoglu Yesiltas!
+- 👀 I’m a data engineer.
 - 📫 You can reach me mufidepalaoglu@gmail.com
 
 <!---
